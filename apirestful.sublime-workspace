@@ -1,0 +1,257 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"US",
+				"USUARIO_NO_VERIFICADO〔constant〕"
+			],
+			[
+				"P",
+				"PRODUCTO_NO_DISPONIBLE〔constant〕"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"cantidad",
+				"$cantidadTransacciones〔variable〕"
+			],
+			[
+				"can",
+				"$cantidadUsuarios〔variable〕"
+			],
+			[
+				"rado",
+				"randomElement〔function〕"
+			],
+			[
+				"U",
+				"USUARIO_NO_VERIFICADO〔constant〕"
+			],
+			[
+				"USU",
+				"USUARIO_VERIFICADO〔constant〕"
+			],
+			[
+				"rand",
+				"randomElement〔function〕"
+			],
+			[
+				"ra",
+				"randomElement〔function〕"
+			],
+			[
+				"th",
+				"$this〔variable〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/APIRestful",
+		"/C/xampp/htdocs/APIRestful/app"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/APIRestful/routes/api.php",
+		"/C/xampp/htdocs/APIRestful/app/Http/Controllers/Seller/SellerController.php",
+		"/C/xampp/htdocs/APIRestful/app/Buyer.php",
+		"/C/xampp/htdocs/APIRestful/app/Seller.php",
+		"/C/xampp/htdocs/APIRestful/app/Http/Controllers/Buyer/BuyerController.php",
+		"/C/xampp/htdocs/APIRestful/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/APIRestful/app/Http/Controllers/User/UserController.php",
+		"/C/xampp/htdocs/APIRestful/app/Category.php",
+		"/C/xampp/htdocs/APIRestful/routes/web.php",
+		"/C/xampp/htdocs/APIRestful/app/User.php",
+		"/C/xampp/htdocs/APIRestful/database/factories/ModelFactory.php",
+		"/C/xampp/htdocs/APIRestful/app/Transaction.php",
+		"/C/xampp/htdocs/APIRestful/database/migrations/2018_07_25_183200_create_products_table.php",
+		"/C/xampp/htdocs/APIRestful/app/Product.php",
+		"/C/xampp/htdocs/APIRestful/.env",
+		"/C/xampp/htdocs/APIRestful/config/database.php",
+		"/C/xampp/htdocs/APIRestful/database/factories/UserFactory.php",
+		"/C/xampp/htdocs/APIRestful/app/Providers/AppServiceProvider.php",
+		"/C/xampp/htdocs/APIRestful/database/migrations/2018_07_26_151850_category_product_table.php",
+		"/C/xampp/htdocs/APIRestful/database/migrations/2018_07_25_183422_create_categories_table.php",
+		"/C/xampp/htdocs/APIRestful/database/migrations/2018_07_25_183302_create_transactions_table.php",
+		"/C/xampp/htdocs/APIRestful/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/xampp/htdocs/APIRestful/app/Providers/RouteServiceProvider.php",
+		"/C/xampp/htdocs/APIRestful/app/Http/Kernel.php",
+		"/C/xampp/htdocs/APIRestful/vendor/laravel/framework/src/Illuminate/Notifications/Notifiable.php",
+		"/C/xampp/htdocs/APIRestful/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php",
+		"/C/xampp/htdocs/APIRestful/prueba.txt",
+		"/C/xampp/htdocs/APIRestful/vendor/laravel/framework/src/Illuminate/Notifications/HasDatabaseNotifications.php",
+		"/C/xampp/htdocs/APIRestful/APIRestful.sublime-project"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" \n",
+			"integer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "apirestful.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 501.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
